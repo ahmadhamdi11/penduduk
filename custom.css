@@ -1,9 +1,11 @@
 .cuNav{
 	padding-top: 20px;
 	height: 100px;
+	background:white;
+	border-radius: 10px;
+
 
 }
-
 img{
 	width: 100%;
 	height: auto;
